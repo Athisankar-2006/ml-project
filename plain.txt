@@ -1,0 +1,15 @@
+Agenda
+
+1-set up the github(repository)
+  a)new environment
+  b)set.py
+  c)requirement.txt
+
+
+  echo "# ml-project" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Athisankar-2006/ml-project.git
+git push -u origin main
